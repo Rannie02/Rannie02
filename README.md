@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rannie02
+- 👀 I’m interested in statistics, data science and general machine learning models
+- 🌱 I’m currently learning natural language processing using SpaCy
+- 📫 How to reach me: you can email me at rannie@massminority.com
